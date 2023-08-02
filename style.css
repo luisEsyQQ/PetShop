@@ -1,0 +1,70 @@
+
+#banner{
+    height: 600px;
+    background-image: url(images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#a{
+    height: 400px;
+    background-image: url(images/middle1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#b{
+    height: 400px;
+    background-image: url(images/middle2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#c{height: 400px;
+    background-image: url(images/middle3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#d{
+    height: 400px;
+    background-image: url(images/middle4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#e{
+    height: 550px;
+    background-image: url(images/food2.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+#f{
+    height: 550px;
+    background-image: url(images/toy1.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+#g{
+    height: 750px;
+    background-image: url(images/thanks.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.footer{
+    background-color: rgb(101, 150, 255);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    line-height: 75px;
+}
+
+.cont{
+    font-size: 10pt;
+    color: white;
+}
